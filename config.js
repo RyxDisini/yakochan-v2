@@ -1,15 +1,15 @@
 global.owner = [
-  "6283824196477",
+  "6283199346086",
   ""
 ]
-global.namabot = "Ryoo - MD"
-global.ownername = "Hann"
-global.pack = "Ryoo - MD"
-global.author = "Hann Universe!!"
-global.channelname = "Hann Universe!!"
-global.channeljid = "120363280576631666@newsletter"
-global.linkgc = "https://chat.whatsapp.com/HEHSFt134b29XOnjEIRaXX"
-global.linksl = "https://whatsapp.com/channel/0029Vaf07jKCBtxAsekFFk3i"
+global.namabot = "YakoChan - Beta"
+global.ownername = "Rayy"
+global.pack = "Sticker ini dibuat free oleh @yakochan!"
+global.author = "© RayJet"
+global.channelname = "2024 - 2025"
+global.channeljid = "99999999999@newsletter"
+global.linkgc = ""
+global.linksl = ""
 global.public = true
 global.mess = {
     success: '𝙳𝚘𝚗𝚎 𝙺𝚊𝚔 ',
